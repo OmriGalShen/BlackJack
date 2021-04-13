@@ -1,2 +1,1 @@
-python %~dp0\blackjack.py %*
-pause
+python blackjack.py
