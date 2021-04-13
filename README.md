@@ -11,5 +11,5 @@ You need to run Python 3 on your machine.
 
 ## How to start?  
 1. Clone repo 
-2. In terminal run "python python blackjack.py"
+2. In terminal run "python blackjack.py"
 3. Enjoy!
